@@ -1,6 +1,6 @@
 # SpeedRacer
 
-Deduplication tool
+Multi-process tool
 
 Idea : Skymmer
 
